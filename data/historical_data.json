@@ -1,11 +1,11 @@
 [
   {
     "date": "2025-11-13",
-    "timestamp": "2025-11-13T00:10:48.397317",
-    "emission_cap_tons_day": 21.53,
-    "blh_avg_m": 350.0,
-    "wind_speed_avg_kmh": 3.65,
-    "residence_time_hours": 21.9
+    "timestamp": "2025-11-13T23:03:01.161407",
+    "emission_cap_tons_day": 12.24,
+    "blh_avg_m": 336.0,
+    "wind_speed_avg_kmh": 2.16,
+    "residence_time_hours": 37.1
   },
   {
     "date": "2025-11-12",
