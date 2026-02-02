@@ -646,5 +646,13 @@
     "blh_avg_m": 527.3,
     "wind_speed_avg_kmh": 6.37,
     "residence_time_hours": 12.5
+  },
+  {
+    "date": "2026-02-02",
+    "timestamp": "2026-02-02T23:05:37.373320",
+    "emission_cap_tons_day": 44.0,
+    "blh_avg_m": 521.0,
+    "wind_speed_avg_kmh": 5.0,
+    "residence_time_hours": 16.0
   }
 ]
