@@ -1,22 +1,22 @@
 {
-  "timestamp": "2026-04-21T23:12:52.842281",
+  "timestamp": "2026-04-22T23:16:16.505894",
   "constants": {
     "target_concentration_ug_m3": 37.5,
     "basin_area_km2": 1500,
     "basin_length_km": 80
   },
   "atmospheric_conditions": {
-    "blh_avg_m": 856.0,
-    "wind_speed_avg_kmh": 7.02,
-    "wind_speed_avg_ms": 1.95
+    "blh_avg_m": 752.1,
+    "wind_speed_avg_kmh": 6.38,
+    "wind_speed_avg_ms": 1.77
   },
   "calculated_values": {
-    "volume_m3": 1284062500000.0,
-    "residence_time_seconds": 41017.0,
-    "residence_time_hours": 11.4,
-    "emission_cap_ug_s": 1173946617.0
+    "volume_m3": 1128125000000.0,
+    "residence_time_seconds": 45173.0,
+    "residence_time_hours": 12.5,
+    "emission_cap_ug_s": 936506799.0
   },
   "result": {
-    "emission_cap_tons_day": 101.43
+    "emission_cap_tons_day": 80.91
   }
 }
